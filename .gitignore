@@ -1,0 +1,58 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserdatad
+*.xcscmblueprint
+*.xcdebugger
+xcuserdata/
+.idea/
+
+# Xcode project/workspace
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcshareddata/
+
+# Swift Package Manager
+/.build/
+Package.resolved
+
+# Carthage
+/Carthage/Build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# CocoaPods/other
+*.framework
+
+# Generated app icons and asset catalogs
+*.appiconset/
+
+# macOS
+*.swp
+
+# User-specific files
+*.swiftsourceinfo
+
+# Misc
+*.log
+
+# Secrets and local config (uncomment if you use these files)
+# .env
+# Secrets.xcconfig
+
+# Large media (use Git LFS instead)
+# *.png
+# *.jpg
+# *.jpeg
+# *.mp4
