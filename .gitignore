@@ -56,3 +56,4 @@ fastlane/screenshots
 # *.jpg
 # *.jpeg
 # *.mp4
+Secrets.xcconfig
